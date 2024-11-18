@@ -1,7 +1,7 @@
 ---
 title: Plugins in Rust
 subtitle: dlopen / libloading
-data: 2022/10/18 21:31:00
+date: 2022/10/18 21:31:00
 tags: tech
 ---
 ![pixiv/artworks/78511187](https://img1.imgtp.com/2022/10/18/jwMRosrr.jpg)

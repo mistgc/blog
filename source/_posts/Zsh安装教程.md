@@ -1,7 +1,7 @@
 ---
 title: Zsh食用教程
 subtitle: 终极的shell...
-data: 2022/2/25
+date: 2022/2/25
 tags: tech
 ---
 # Zsh安装教程

@@ -1,7 +1,7 @@
 ---
 title: Colemak.
 subtitle: Why I use Colemak?
-data: 2022/4/11 00:01:00
+date: 2022/4/11 00:01:00
 tags: tech
 ---
 ![](https://gitee.com/mistgc/pic-go/raw/master/Colemak.png)

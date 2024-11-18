@@ -1,7 +1,7 @@
 ---
 title: Change Default Applications
 subtitle: xdg-mime default nvim.desktop text/plain
-data: 2022/10/6 14:02
+date: 2022/10/6 14:02
 tags: tech
 ---
 ![pixiv/artworks/86432825](https://img1.imgtp.com/2022/10/06/TwONQ2G5.jpg)

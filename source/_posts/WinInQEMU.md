@@ -1,7 +1,7 @@
 ---
 title: Windows 11 in QEMU
 subtitle: Trusted Platform Module
-data: 2022/9/21
+date: 2022/9/21
 tags: tech
 ---
 

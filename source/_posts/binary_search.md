@@ -1,7 +1,7 @@
 ---
 title: 关于二分查找的细节问题思考
 subtitle: Binary Search.
-data: 2022/3/9 22:46:00
+date: 2022/3/9 22:46:00
 math: true
 tags: tech
 ---

@@ -1,7 +1,7 @@
 ---
 title: C语言实现面向对象
 subtitle: Object Oriented Programming.
-data: 2021/12/17 13:49:00
+date: 2021/12/17 13:49:00
 tags: tech
 ---
 # C语言实现面向对象

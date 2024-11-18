@@ -1,7 +1,7 @@
 ---
 title: From init.vim to init.lua (1)
 subtitle: Lua, Yes.
-data: 2022/6/26 00:41:00
+date: 2022/6/26 00:41:00
 tags: tech
 ---
 ![Neovim by lua](https://img1.imgtp.com/2022/06/24/Tw2U0IQs.png)
